@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HASHIM HAMEEM </h1>
 <h3 align="center">A full stack developer and Android app developer from India</h3>
 
-- 📫 How to reach me **hashimdar141yahoo.com*
+- 📫 How to reach me **hashimdar141@yahoo.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
