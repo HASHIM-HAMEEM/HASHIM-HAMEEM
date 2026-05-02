@@ -21,7 +21,7 @@
 
 ```javascript
 const hashim = {
-    location: "Kashmir, India",
+    location: "Kashmir",
     education: "B.E. Computer Science & Engineering - RNS Institute of Technology, Bangalore",
     specialization: ["Mobile Development", "Full-Stack Development", "UI/UX Design"],
     philosophy: "Creating technology that serves humanity",
