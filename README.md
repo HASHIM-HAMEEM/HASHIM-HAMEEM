@@ -128,7 +128,7 @@ Approaching challenges with creative solutions and technical excellence
 I'm always interested in collaborating on innovative projects and contributing to open-source initiatives.
 
 📧 **Email:** hashimdar141@gmail.com  
-📍 **Location:** Kashmir, India  
+📍 **Location:** Kashmir 
 🌐 **Portfolio:** [hashimhameem.site](https://hashimhameem.site/)
 
 </div>
